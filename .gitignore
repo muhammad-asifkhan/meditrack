@@ -1,0 +1,10 @@
+
+# secrets & build output
+.env
+.env.*
+!.env.example
+dist/
+.claude/
+.venv/
+__pycache__/
+node_modules/
